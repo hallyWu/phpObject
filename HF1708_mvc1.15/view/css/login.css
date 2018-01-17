@@ -1,0 +1,38 @@
+body{
+    background: url("../images/back1.jpg");
+    /*background: deepskyblue;*/
+    background-size: 100%;
+    background-position: 100% 0;
+}
+#f_login{
+    /*background: url("./images/land.png")no-repeat;*/
+    background: rgba(0,0,0,0.2);
+    width: 565px;
+    height: 450px;
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    /*background: #f7f7f7;*/
+}
+#f_login h1{
+    text-align: center;
+}
+#f_login input{
+    height: 25px;
+    background: #faffbd;
+    outline: none;
+}
+#f_login p{
+    text-align: center;
+}
+#code{
+    width: 100px;
+}
+#f_login button{
+    width: 150px;
+    height: 30px;
+    margin-left: 70px;
+    background: #0e84b5;
+    color: white;
+    font-size: 20px;
+}
