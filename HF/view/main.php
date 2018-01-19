@@ -21,7 +21,7 @@
         <ul>
                 <?php
                 echo "<li style='color:red;'>";
-                    session_start();
+                    // session_start();
                     $user = $_SESSION['user']['tname'];
                     echo $user;
                 echo "</li><li>欢迎您！|</li><li><a href='./handout.php?c=login&a=loginout'>退出</a></li>";
@@ -40,7 +40,7 @@
                     echo "<h3 class = 'tmenu'>{$value['mname']}</h3>";
                     foreach($menu as $key => $val){
                         if($value['mid'] == $val['mfid']){
-                            echo "<li class='drop' mysrc='{$val['murl']}'>{$val['mname']}</li>";
+                            echo "<li class='drop' mysrc='{$val['murl']}'> <a href='{$val['murl']}' target='section'>{$val['mname']}</a>   </li>";
                         }
                     }
                     echo "</ul>";
@@ -49,9 +49,7 @@
             ?>
         </div>
         <div id="showMenu">
-            <iframe src="<?php foreach($menu as $key=>$value){
-                echo "{$value['murl']}";
-            };?>" frameborder="0" name="menu"></iframe>
+            <iframe src="" frameborder="0" name="section"></iframe>
         </div>
     </div>
 

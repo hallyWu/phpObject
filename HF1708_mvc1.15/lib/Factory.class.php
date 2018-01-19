@@ -30,7 +30,7 @@ class Factory
     }
     //模型的引用
     function loadModel($classname){
-        $path="./control/".$classname.".class.php";
+        $path="./model/".$classname.".class.php";
         if (file_exists($path)){
             require_once $path;
         }else{

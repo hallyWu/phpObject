@@ -20,7 +20,7 @@ class Code
     private $font;      //文字大小
 
     //构造函数  传入各个参数
-    public function __construct($width,$height,$size=4,$fontfamily="./code/ArialMT.ttf"){
+    public function __construct($width,$height,$size=2,$fontfamily="./code/ArialMT.ttf"){
         $this ->width = $width;
         $this ->height = $height;
         $this ->size = $size;

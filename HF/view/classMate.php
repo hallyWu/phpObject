@@ -29,11 +29,11 @@
             <?php
                 foreach ($data as $value){
                     echo "<tr>";
-                    echo "<td>{$value[sname]}</td>";
-                    echo "<td>{$value[ssex]}</td>";
-                    echo "<td>{$value[sage]}</td>";
-                    echo "<td>{$value[sphone]}</td>";
-                    echo "<td>{$value[sSchool]}</td>";
+                    echo "<td>{$value['sname']}</td>";
+                    echo "<td>{$value['ssex']}</td>";
+                    echo "<td>{$value['sage']}</td>";
+                    echo "<td>{$value['sphone']}</td>";
+                    echo "<td>{$value['sSchool']}</td>";
                 }
             ?>
         </table>
