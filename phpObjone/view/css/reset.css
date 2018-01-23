@@ -14,3 +14,5 @@ button,input,select,textarea {font-size:100%}
 table {border-collapse:collapse;border-spacing:0}    
 .fr{float: right;}
 .fl{float:left;}
+.tip{font-size:10px !important;}
+.red{color:red;}
