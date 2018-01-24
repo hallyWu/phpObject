@@ -4,8 +4,8 @@
 <meta charset="utf-8"/>
 <title>场馆管理</title>
 <meta name="author" content="DeathGhost" />
-<link rel="stylesheet" type="text/css" href="../css/style.css">
-<script src="../js/jquery.js"></script>
+<link rel="stylesheet" type="text/css" href="./view/css/style.css">
+<script src="./view/js/jquery.js"></script>
 <style>
 	.totalNum{
 		float: right;
@@ -22,7 +22,7 @@
 <body>
 <!--header-->
 <header>
- <h1 class="headH">场馆管理</h1>
+ <h1 class="headH">商城后台管理</h1>
  <ul class="rt_nav">
   <li><a href="#" class="clear_icon">清除缓存</a></li>
   <li>
@@ -40,28 +40,23 @@
  <ul class="asides">
   <li>
    <dl>
-    <dt>资讯</dt>
+    <dt>商城管理</dt>
     <!--当前链接则添加class:active-->
-    <dd><a href="allVenues.html" target="section" class="active">全部场馆</a></dd>
-	<dd><span class="totalNum list_all">0</span><a href="allCoach.html" target="section">全部教练</a></dd>
-	<dd><span class="totalNum on_shelves">0</span><a href="myOrder.html" target="section">我的订单</a></dd>
- 	<dd><span class="totalNum off_shelves">0</span><a href="myEarnings.html" target="section">我的收益</a></dd>
- 	<dd><span class="totalNum off_shelves">0</span><a href="financial.html" target="section">财务报告</a></dd>
- 	<dd><span class="totalNum off_shelves">0</span><a href="memberList.html" target="section">会员列表</a></dd>
- 	<dd><span class="totalNum off_shelves">0</span><a href="delInformation.html" target="section">pc功能详情页</a></dd>
+       <dd><a href="./index.php?c=adminShow&a=showaddShops" target="section" class="active">添加商品</a></dd>
+       <dd><a href="./index.php?c=adminShow&a=allGoods" target="section" class="active">添加商品</a></dd>
    </dl>
   </li>
  </ul>
 </aside>
 
 <section class="rt_wrap">   
-    <iframe id="mainFrame" src="allVenues.html" name="section" border="none" width="100%" frameborder="no" border="0" scrolling="auto"></iframe>   
+    <iframe id="mainFrame" src="./index.php?c=adminShow&a=showaddShops" name="section" border="none" width="100%" frameborder="no" border="0" scrolling="auto"></iframe>
 </section>  
 <script>
 //	侧边导航点击选中项
 	$(".asides").find("dd a").on("click",function(){
 		$(".asides").find("dd a").removeClass('active');
-		$(this).addClass('active')
+		$(this).addClass('active');
 	})
 	$('#mainFrame').height($(window).height()-70);
   	$('.quit_icon').click(function(){

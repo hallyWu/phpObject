@@ -11,7 +11,7 @@ $('#adminSub').on('click',function(){
         success:function(res){
            if(res==1){
                alert('登入成功');
-               window.location.href = "../../../index.php?adminMain$a=adminIndex";
+               window.location.href = "./index.php?c=adminShow&a=adminIndex";
            }else if(res==-1){
                alert('请检查账号密码邮箱是否正确');
            }else if(res==0){

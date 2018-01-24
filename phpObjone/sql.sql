@@ -5,9 +5,9 @@ USE WSPpro;
 
 -- Ω«…´¡–±Ì
 CREATE table sp_permis(
- 	sp_permis_id SMALLINT UNSIGNED not null auto_increment PRIMARY KEY COMMENT "Ω«…´ID",
- 	sp_permis_name VARCHAR(30) not null DEFAULT '' COMMENT "Ω«…´√˚≥∆",
- 	sp_describe VARCHAR(50) COMMENT "Ω«…´√Ë ˆ" 
+  sp_permis_id SMALLINT UNSIGNED not null auto_increment PRIMARY KEY COMMENT "Ω«…´ID",
+  sp_permis_name VARCHAR(30) not null DEFAULT '' COMMENT "Ω«…´√˚≥∆",
+  sp_describe VARCHAR(50) COMMENT "Ω«…´√Ë ˆ" 
  )ENGINE = INNODB charset = utf8;
 
 -- ≤Â»ÎΩ«…´¡–±Ì
@@ -16,33 +16,33 @@ insert into sp_permis(sp_permis_name,sp_describe) VALUES('≥¨º∂π‹¿Ì‘±','œµÕ≥π‹¿Ì‘
 
 -- ¥¥Ω®∫ÛÃ®π‹¿Ì‘±±Ì
 CREATE table sp_admin(
-	admin_id SMALLINT UNSIGNED not null auto_increment PRIMARY KEY COMMENT "π‹¿Ì‘±±‡∫≈",
-	admin_name VARCHAR(30) not null DEFAULT '' COMMENT "π‹¿Ì‘±√˚≥∆",
-	admin_psd VARCHAR(50) not null DEFAULT '' COMMENT "π‹¿Ì‘±√‹¬Î",
-	admin_email VARCHAR(50) not null DEFAULT '' COMMENT "π‹¿Ì‘±” œ‰",
-	admin_addtime int UNSIGNED not null DEFAULT 0 COMMENT "ÃÌº” ±º‰",
+  admin_id SMALLINT UNSIGNED not null auto_increment PRIMARY KEY COMMENT "π‹¿Ì‘±±‡∫≈",
+  admin_name VARCHAR(30) not null DEFAULT '' COMMENT "π‹¿Ì‘±√˚≥∆",
+  admin_psd VARCHAR(50) not null DEFAULT '' COMMENT "π‹¿Ì‘±√‹¬Î",
+  admin_email VARCHAR(50) not null DEFAULT '' COMMENT "π‹¿Ì‘±” œ‰",
+  admin_addtime int UNSIGNED not null DEFAULT 0 COMMENT "ÃÌº” ±º‰",
   admin_permis SMALLINT UNSIGNED DEFAULT 1 COMMENT "»®œﬁπ‹¿Ì",
 --   admin_permis enum("1","2","3","4") DEFAULT 1 COMMENT "»®œﬁπ‹¿Ì",
-  foreign key(admin_permis) references sp_permis(sp_permis_id)	
+  foreign key(admin_permis) references sp_permis(sp_permis_id)  
 )ENGINE = INNODB charset = utf8 COMMENT "π‹¿Ì‘±±Ì";
 -- ≤Â»Î“ªÃıπ‹¿Ì‘± ”√ªß√˚ √‹¬Î ∂ºŒ™admin
 insert into sp_admin(admin_name,admin_psd,admin_email,admin_permis) VALUES('admin',MD5('admin'),'admin@admin.com',1);
 
 
 -- ‘±π§±Ì
-CREATE table sp_employees(	
+CREATE table sp_employees(  
   sp_emp_accountId VARCHAR(30) not null PRIMARY KEY COMMENT "”√ªß’Àªß",
-	sp_emp_name VARCHAR(30) default "" COMMENT "”√ªß√˚≥∆",
-	sp_emp_state enum("1","2","3") DEFAULT 1 COMMENT "”√ªß◊¥Ã¨",
+  sp_emp_name VARCHAR(30) default "" COMMENT "”√ªß√˚≥∆",
+  sp_emp_state enum("1","2","3") DEFAULT 1 COMMENT "”√ªß◊¥Ã¨",
   sp_emp_permis SMALLINT UNSIGNED DEFAULT 1 COMMENT "”√ªßΩ«…´",
-	FOREIGN KEY(sp_emp_permis) REFERENCES sp_permis(sp_permis_id)
+  FOREIGN KEY(sp_emp_permis) REFERENCES sp_permis(sp_permis_id)
 )ENGINE=InnoDB CHARSET=utf8 COMMENT='‘±π§±Ì';
 
 
 -- ∆∑≈∆
  CREATE TABLE sp_brand(
- 	brand_id int(11) unsigned NOT NULL PRIMARY KEY DEFAULT '10001' COMMENT '∆∑≈∆ID',
- 	brand_name VARCHAR(30) NOT NULL DEFAULT '' COMMENT "∆∑≈∆√˚≥∆"
+  brand_id int(11) unsigned NOT NULL PRIMARY KEY DEFAULT '10001' COMMENT '∆∑≈∆ID',
+  brand_name VARCHAR(30) NOT NULL DEFAULT '' COMMENT "∆∑≈∆√˚≥∆"
 );
 -- ≤Â»Î∆∑≈∆
 INSERT INTO sp_brand(brand_id, brand_name) VALUES
@@ -89,8 +89,8 @@ INSERT INTO sp_brand(brand_id, brand_name) VALUES
 
 -- ¥¥Ω®Õº∆¨id
 CREATE TABLE main_img(
- 	main_img_id int(11) unsigned NOT NULL PRIMARY KEY DEFAULT '1001' COMMENT '÷˜Õºid',
-  	main_img_url VARCHAR(80) NOT NULL DEFAULT '' COMMENT "÷˜Õºµÿ÷∑"
+  main_img_id int(11) unsigned NOT NULL PRIMARY KEY DEFAULT '1001' COMMENT '÷˜Õºid',
+    main_img_url VARCHAR(80) NOT NULL DEFAULT '' COMMENT "÷˜Õºµÿ÷∑"
 );
 -- -- ≤Â»ÎÕº∆¨
  INSERT INTO main_img(main_img_id, main_img_url) VALUES
@@ -99,7 +99,15 @@ CREATE TABLE main_img(
  (1003,'www.url.com/main.jpg3'),
  (1004,'www.url.com/main.jpg4');
 
-
+-- ¥¥Ω®◊¥Ã¨±Ì
+CREATE TABLE goods_status(
+  goods_status_id int(11) unsigned NOT NULL PRIMARY KEY DEFAULT '101' COMMENT '◊¥Ã¨id',
+  goods_status VARCHAR(30) NOT NULL COMMENT "◊¥Ã¨÷µ"
+);
+INSERT INTO goods_status(goods_status_id,goods_status) VALUE
+(101,"…œº‹"),
+(102,"œ¬º‹"),
+(103,"»»œ˙");
 
 
 -- …Ã∆∑¡–±Ì
@@ -111,14 +119,11 @@ CREATE TABLE main_img(
     minimum_price float NOT NULL COMMENT '◊ÓµÕº€',
     highest_price float NOT NULL COMMENT '◊Ó∏ﬂº€',
     sp_inventory int(10) UNSIGNED not null COMMENT "…Ã∆∑ø‚¥Ê",
-    goods_status int(11) NOT NULL COMMENT '…Ã∆∑◊¥Ã¨',
+    goods_status int(11) unsigned NOT NULL DEFAULT '101' COMMENT '…Ã∆∑◊¥Ã¨',
     update_time int(11) NOT NULL DEFAULT '0' COMMENT '…œº‹ ±º‰',
     create_time int(11) NOT NULL DEFAULT '0' COMMENT '∑¢≤º ±º‰',
     PRIMARY KEY (sp_id),
- 	  FOREIGN KEY(brand_id) REFERENCES sp_brand(brand_id),
- 	  FOREIGN KEY(main_img_id) REFERENCES main_img(main_img_id)
+    FOREIGN KEY(brand_id) REFERENCES sp_brand(brand_id),
+    FOREIGN KEY(main_img_id) REFERENCES main_img(main_img_id),
+    FOREIGN KEY(goods_status) REFERENCES goods_status(goods_status_id)
  ) ENGINE=InnoDB CHARSET=utf8 COMMENT='…Ã∆∑±Ì';
-
-
-
-

@@ -1,6 +1,7 @@
 <?php
 class Factory{
     public function __construct(){
+        require_once "./public/Page.class.php";
         require_once './lib/Control.class.php';
         require_once './lib/Model.class.php';
         spl_autoload_register([__CLASS__,'loadControl']);
@@ -19,7 +20,6 @@ class Factory{
         $path = "./model/".$classname.".class.php";
         if(file_exists($path)){
             require_once $path;
-
         }else{
             error_log("该文件不存在".$path);
         }

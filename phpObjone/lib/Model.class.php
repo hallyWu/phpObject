@@ -19,8 +19,16 @@ class Model{
         foreach($condition as $key=>$value){
             $sql .= " and {$key}='{$value}'";
         }
-//        var_dump($sql);
         $data = $this->db->searchSql($sql);
         return $data;
     }
+    // 简单插入语句
+    public function simInsertOne($table,$array){
+        $key = implode(',',array_keys($array));
+        $value ="'".implode("','",$array) ."'";
+        $sql = "INSERT INTO {$table}({$key}) VALUES ({$value})";
+        $data = $this->db->dealSql($sql);
+        return $data;
+    }
+
 }

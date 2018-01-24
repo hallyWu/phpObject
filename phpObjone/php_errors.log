@@ -1,0 +1,542 @@
+[23-Jan-2018 21:13:35 PRC] 该文件不存在./control/LogregModel.class.php
+[23-Jan-2018 21:17:05 PRC] 该文件不存在./control/LogregModel.class.php
+[23-Jan-2018 21:20:07 PRC] 该文件不存在./control/LogregModel.class.php
+[23-Jan-2018 21:22:18 PRC] 该文件不存在./control/LogregModel.class.php
+[23-Jan-2018 21:22:59 PRC] 该文件不存在./control/LogregModel.class.php
+[23-Jan-2018 21:23:47 PRC] 该文件不存在./control/LogregModel.class.php
+[23-Jan-2018 21:24:12 PRC] 该文件不存在./control/LogregModel.class.php
+[23-Jan-2018 21:46:20 PRC] 该文件不存在./control/LogregModel.class.php
+[23-Jan-2018 21:46:27 PRC] 该文件不存在./control/LogregModel.class.php
+[23-Jan-2018 21:46:43 PRC] 该文件不存在./control/LogregModel.class.php
+[23-Jan-2018 21:54:03 PRC] PHP Notice:  Undefined variable: sp_brand in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:54:20 PRC] PHP Notice:  Undefined variable: sp_brand in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:54:30 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:55:47 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:55:49 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:56:10 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:56:10 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:56:11 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:56:11 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:56:11 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:58:00 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:58:02 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:58:02 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:58:02 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:58:02 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:58:04 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:58:04 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:58:05 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:58:05 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:58:05 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:58:28 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 21:58:34 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:22 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:02:24 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:03:10 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:03:10 PRC] PHP Notice:  Undefined variable: brandlist in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 31
+[23-Jan-2018 22:03:10 PRC] PHP Warning:  Invalid argument supplied for foreach() in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 31
+[23-Jan-2018 22:03:10 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:03:10 PRC] PHP Notice:  Undefined variable: brandlist in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 31
+[23-Jan-2018 22:03:10 PRC] PHP Warning:  Invalid argument supplied for foreach() in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 31
+[23-Jan-2018 22:03:11 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:03:11 PRC] PHP Notice:  Undefined variable: brandlist in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 31
+[23-Jan-2018 22:03:11 PRC] PHP Warning:  Invalid argument supplied for foreach() in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 31
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:38 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:08:39 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:11 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:12 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:13 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:09:28 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:10:01 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:10:01 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:10:02 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:10:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:10:02 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:10:02 PRC] PHP Notice:  Undefined variable: valeu in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:10:20 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:10:34 PRC] PHP Notice:  Use of undefined constant sp_brand - assumed 'sp_brand' in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 23
+[23-Jan-2018 22:13:07 PRC] PHP Notice:  Undefined variable: brandList in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 31
+[23-Jan-2018 22:13:07 PRC] PHP Warning:  Invalid argument supplied for foreach() in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 31
+[23-Jan-2018 22:13:26 PRC] PHP Notice:  Undefined variable: brandList in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 31
+[23-Jan-2018 22:13:26 PRC] PHP Warning:  Invalid argument supplied for foreach() in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 31
+[23-Jan-2018 22:13:59 PRC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in G:\PHPstudy\PHPObject\phpObject\phpObjone\control\adminMainCon.class.php on line 25
+[23-Jan-2018 22:59:08 PRC] PHP Notice:  Undefined index: brand_name in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 22:59:08 PRC] PHP Notice:  Undefined index: brand_name in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 32
+[23-Jan-2018 23:36:22 PRC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 70
+[23-Jan-2018 23:36:57 PRC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 70
+[23-Jan-2018 23:37:04 PRC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 70
+[23-Jan-2018 23:37:22 PRC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 70
+[23-Jan-2018 23:37:22 PRC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 70
+[23-Jan-2018 23:39:21 PRC] PHP Parse error:  syntax error, unexpected '}' in G:\PHPstudy\PHPObject\phpObject\phpObjone\view\admin\addShops.php on line 35
