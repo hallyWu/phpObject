@@ -8,6 +8,7 @@ class adminActionCon extends Control {
             case "addShops";
                 $this->addShops();
                 break;
+
         }
     }
     //添加商品方法
@@ -64,5 +65,4 @@ class adminActionCon extends Control {
         $datas = $adminModel -> simInsertOne('sp_goods',$filed);
         echo json_encode(["code" =>$datas, "msg" => '商品添加成功']);
     }
-
 }

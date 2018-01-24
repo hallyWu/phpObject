@@ -16,6 +16,10 @@ class adminShowCon extends Control {
             case "allGoods";
                 $this->allGoods();
                 break;
+            //显示编辑页面
+            case "editGoods";
+                $this->editGoods();
+                break;
         }
     }
     // 显示商城主页
@@ -24,7 +28,7 @@ class adminShowCon extends Control {
     }
     // 显示添加商品页
     public function showaddShops(){
-        $model = new Model();
+        $model = new adminActionModel();
         $brandList = $model->simSelect('sp_brand');
         $goods_statusList = $model->simSelect('goods_status');
         $this->show('./view/admin/addShops.php' , [$brandList,$goods_statusList]);
@@ -36,5 +40,20 @@ class adminShowCon extends Control {
         $page = new Page($count[0]['count'],10,"./index.php?c=adminShow&a=allGoods");
         $data = $model->getAllgoods($page->getStar(),$page->getOne());
         $this->show('./view/admin/allGoods.php',[$data,$page->showPage()]);
+    }
+    //显示编辑页面
+    public function editGoods(){
+        $model = new adminActionModel();
+        $goodId = $_GET['goodId'];
+        $condition=array('sp_id'=>"$goodId");
+
+        $brandList = $model->simSelect('sp_brand');
+
+        $goods_statusList = $model->simSelect('goods_status');
+
+        $goodsdata = $model->selectWhere('sp_goods',$condition);
+
+//        var_dump($goodsdata);
+        $this->show('./view/admin/editGoods.php',[$goodsdata,$goods_statusList,$brandList]);
     }
 }

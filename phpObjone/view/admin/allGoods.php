@@ -61,7 +61,7 @@
                     echo $value['create_time'];
                     echo '</td>';
                     echo '<td>';
-                    echo '<a href="#">编辑</a><a href="#">删除';
+                    echo "<a href='./index.php?c=adminShow&a=editGoods&goodId={$value["sp_id"]}'>编辑</a><a href='#'>删除</a>";
                     echo '</td>';
                     echo "</tr>";
                 };

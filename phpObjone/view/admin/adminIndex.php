@@ -43,7 +43,7 @@
     <dt>商城管理</dt>
     <!--当前链接则添加class:active-->
        <dd><a href="./index.php?c=adminShow&a=showaddShops" target="section" class="active">添加商品</a></dd>
-       <dd><a href="./index.php?c=adminShow&a=allGoods" target="section" class="active">添加商品</a></dd>
+       <dd><a href="./index.php?c=adminShow&a=allGoods" target="section" class="active">全部商品</a></dd>
    </dl>
   </li>
  </ul>
